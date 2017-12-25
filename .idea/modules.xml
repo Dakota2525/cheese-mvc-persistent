@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cheese-mvc-persistent.iml" filepath="$PROJECT_DIR$/cheese-mvc-persistent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cheese-mvc-persistent_main.iml" filepath="$PROJECT_DIR$/.idea/modules/cheese-mvc-persistent_main.iml" group="cheese-mvc-persistent" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cheese-mvc-persistent_test.iml" filepath="$PROJECT_DIR$/.idea/modules/cheese-mvc-persistent_test.iml" group="cheese-mvc-persistent" />
+    </modules>
+  </component>
+</project>
